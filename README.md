@@ -1,7 +1,7 @@
 ### Olá! eu sou o Cauã
 
 - 🔭 À procura de um trabalho Front-end
-- 🌱 Estudsndo Html, Css e JavaScript
+- 🌱 Estudando Html, Css e JavaScript
 - ⚡ Fun fact: O peso total de todas as formigas na Terra é maior do que o peso total de todos os humanos no planeta
 
 
